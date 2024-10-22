@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://salgid.github.io/ZeT/sitemap.ZeT.gz
